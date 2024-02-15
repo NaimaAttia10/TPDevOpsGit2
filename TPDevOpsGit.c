@@ -3,6 +3,6 @@
 void main()
 {
     int x = 0xdead;
-    // Changes to make a conflict
+    printf("Hello, World!");
     return 0;
 }
